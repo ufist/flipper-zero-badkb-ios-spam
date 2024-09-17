@@ -1,7 +1,7 @@
 <p align="center"><img src="https://shurikenskribbles.files.wordpress.com/2023/02/badkb.png?w=546" /></p>
 
 ## iOS Spam Script
-A BadKB/BadBT script that spams an iphone by spamming GUI space and making it impossible to remove until restarted or stopped by the flipper.
+A BadKB/BadBT script that spams an iphone by spamming GUI space, can be stopped by turning off bluetooth in control center after trying a couple of times
 Includes multiple scripts each with different amount of lines.
 
 - appleSpam | 500 Lines
