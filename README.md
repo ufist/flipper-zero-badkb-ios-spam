@@ -4,6 +4,8 @@
 A BadKB/BadBT script that spams an iphone by spamming GUI space, can be stopped by turning off bluetooth in control center after trying a couple of times.
 Includes multiple scripts each with different amount of lines.
 
+disclaimer: dont use this illegally only use it on devices you have permission to test on
+
 - appleSpam | 500 Lines
 - appleSpam1k | 1000 Lines
 - appleSpam10k | 10000 Lines
